@@ -24,14 +24,14 @@
     "data"  : [
      "https://images.pexels.com/photos/931177/pexels-photo-931177.jpeg",
      "https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg",
-     "https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg",
-    
+     "https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg"
+
     ]
   },{
    "type" : "slider",
    "data"  : [
      "https://images.pexels.com/photos/931177/pexels-photo-931177.jpeg",
-     "https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg",
+     "https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg"
     
     ]
   }
