@@ -1,0 +1,30 @@
+{
+    "status": "200",
+    "message": "Intro screen data get successfully",
+    "data": [
+        {
+            "id": 1,
+            "title": "logo",
+            "description": "This image for logo",
+            "image": "646349b4da3aa.svg",
+            "order": 1,
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "title": "logo",
+            "description": "This image for logo",
+            "image": "646349f6c17b5.svg",
+            "order": 1,
+            "status": "active"
+        },
+        {
+            "id": 3,
+            "title": "logo",
+            "description": "This image for logo",
+            "image": "64635622b44c3.svg",
+            "order": 1,
+            "status": "active"
+        }
+    ]
+}
