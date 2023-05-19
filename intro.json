@@ -4,7 +4,7 @@
     "data": [
         {
             "id": 1,
-            "title": "logo",
+            "title": "We help manage the surrogacy process",
             "description": "This image for logo",
             "image": "646349b4da3aa.svg",
             "order": 1,
@@ -12,7 +12,7 @@
         },
         {
             "id": 2,
-            "title": "logo",
+            "title": "Get notified about upcoming appointments",
             "description": "This image for logo",
             "image": "646349f6c17b5.svg",
             "order": 1,
@@ -20,7 +20,7 @@
         },
         {
             "id": 3,
-            "title": "logo",
+            "title": "Get to know your surrogacy journey partner",
             "description": "This image for logo",
             "image": "64635622b44c3.svg",
             "order": 1,
