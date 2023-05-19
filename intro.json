@@ -4,26 +4,26 @@
     "data": [
         {
             "id": 1,
-            "title": "We help manage the surrogacy process",
-            "description": "As the journey unfolds, answer important and personal questions about yourself which will then be shared with your surrogacy partner to help establish a meaningful, special bond",
+            "title": "Your infinite wardrobe",
+            "description": "Discover what works best for you",
             "image": "https://firebasestorage.googleapis.com/v0/b/imagestore-3b7fa.appspot.com/o/3977576%202.svg?alt=media&token=89cad413-19d7-4a96-bf5c-44cdbe18922f",
             "order": 1,
             "status": "active"
         },
         {
             "id": 2,
-            "title": "Get notified about upcoming appointments",
-            "description": "This image for logo",
+            "title": "Amazing discount & offers,
+            "description": "Cheaper prices than your local supermarket great discounts and cashback offers to top ",
             "image": "https://firebasestorage.googleapis.com/v0/b/imagestore-3b7fa.appspot.com/o/Group%2026086173.svg?alt=media&token=ee01e6bb-8a05-457e-96e3-e5472308c8e9",
-            "order": 1,
+            "order": 2,
             "status": "active"
         },
         {
             "id": 3,
-            "title": "Get to know your surrogacy journey partner",
-            "description": "This image for logo",
+            "title": "Easy & Safe payment",
+            "description": "Pay for the products you buy safely & easily",
             "image": "https://firebasestorage.googleapis.com/v0/b/imagestore-3b7fa.appspot.com/o/Group%2026086173.svg?alt=media&token=ee01e6bb-8a05-457e-96e3-e5472308c8e9",
-            "order": 1,
+            "order": 3,
             "status": "active"
         }
     ]
